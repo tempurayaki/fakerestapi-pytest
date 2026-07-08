@@ -12,13 +12,18 @@ A simple API automation testing project built with **Python**, **pytest**, and *
 
 ```text
 .
+├── reports/
+│   └── report.html
+├── screenshots/
+│   ├── Test HTML report.png
+│   └── Test HTML report.png
 ├── tests/
 │   ├── test_activities.py
 │   ├── test_authors.py
 │   ├── test_books.py
+│   ├── test_coverPhotos.py
 │   └── test_users.py
 ├── .gitignore
-├── pytest.ini
 ├── README.md
 └── requirements.txt
 ```
