@@ -15,7 +15,7 @@ A simple API automation testing project built with **Python**, **pytest**, and *
 ├── reports/
 │   └── report.html
 ├── screenshots/
-│   ├── Test HTML report.png
+│   ├── Test CLI report.png
 │   └── Test HTML report.png
 ├── tests/
 │   ├── test_activities.py
