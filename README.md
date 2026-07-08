@@ -37,6 +37,7 @@ The project covers CRUD testing for the following API resources:
 | Books      |  ✅  |   ✅  |  ✅  |    ✅   |
 | Authors    |  ✅  |   ✅  |  ✅  |    ✅   |
 | Activities |  ✅  |   ✅  |  ✅  |    ✅   |
+| CoverPhotos|  ✅  |   ✅  |  ✅  |    ✅   |
 | Users      |  ✅  |   ✅  |  ✅  |    ✅   |
 
 ## How to Run
